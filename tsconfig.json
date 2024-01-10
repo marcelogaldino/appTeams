@@ -9,7 +9,6 @@
       "@routes/*": ["./src/routes/*"],
       "@screens/*": ["./src/screens/*"],
       "@storage/*": ["./src/storage/*"],
-      "@themes/*": ["./src/themes/*"],
       "@utils/*": ["./src/utils/*"]
     }
   }
